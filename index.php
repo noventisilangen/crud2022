@@ -113,7 +113,7 @@
 <h1 class="text-center">WEB VENTI</h1>
 <h2 class="text-center">NOVENTI SILANGEN</h2>
 
-<!-- Awal Cd Form -->
+<!-- Awal d Form -->
 <div class="card mt-3">
   <div class="card-header bg-primary text-white">
     Form Input Data Mahasiswa
